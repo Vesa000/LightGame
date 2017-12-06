@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/lightgame/lightgame/Content/textures/player.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/lightgame/lightgame/Content/maps/testmap.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/lightgame/lightgame/Content/fonts/font1.spritefont</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/lightgame/lightgame/Content/textures/white.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/lightgame/lightgame/Content/maps/map1.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/lightgame/lightgame/Content/maps/map2.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/lightgame/lightgame/Content/maps/map3.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/lightgame/lightgame/Content/maps/map4.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/lightgame/lightgame/Content/maps/map0.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/lightgame/lightgame/Content/maps/testmap0.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/lightgame/lightgame/Content/textures/ball.png</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/lightgame/lightgame/Content/Sounds/goal.mp3</File>
+    <File>C:/Users/Vesa/Documents/Visual Studio 15/Projects/lightgame/lightgame/Content/Sounds/teleport.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>
